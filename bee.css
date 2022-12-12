@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    background-color: rgb(172, 167, 167);
+     border-radius: 5px;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    background-color: rgb(172, 167, 167);
+    border-radius: 5px;
+}
+#saki{
+text-align: center;
+font-size: 30px;
+}
+#saki1{
+    text-align: center;
+    font-size: 30px;
+}
+.col-md-4 img{
+    width:500px;
+    height:400px;
+}
+.card-body h5{
+    text-align: center;
+    font-size: 30px;
+}
